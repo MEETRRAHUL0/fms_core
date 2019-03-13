@@ -1,0 +1,358 @@
+﻿@model FMS_Core.Models.EFModels.TblSale
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create" id="FormSales">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <partial name="_Header" />
+            <input type="hidden" id="SaleId" name="SaleId" value="@ViewBag.Id" />
+            <input type="hidden" name="CreatedDatetime" value="@ViewBag.CreatedDatetime" />
+
+
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="InvoiceId" class="control-label"></label>
+                        <input asp-for="InvoiceId" class="form-control" value="@ViewBag.InvoiceId" />
+                        <span asp-validation-for="InvoiceId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="InvoiceDate" class="control-label"></label>
+                        <input asp-for="InvoiceDate" class="form-control" type="date" />
+                        <span asp-validation-for="InvoiceDate" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="CustomerId" class="control-label"></label>
+                        <select asp-for="CustomerId" class="form-control" asp-items="ViewBag.CustomerId"></select>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="ReverseCharge" class="control-label"></label>
+                        <input asp-for="ReverseCharge" class="form-control" />
+                        <span asp-validation-for="ReverseCharge" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <hr />
+            <div class="row">
+
+                <span> Items List &nbsp;&nbsp;</span>
+                <button id="CreateNewItem" class="CreateNewItem btn btn-danger" type="button">
+                    +
+                </button>
+            </div>
+            <div class="row">
+                <div id="divLoadItems" style="overflow: auto">
+                    <partial name="LoadItems" />
+                </div>
+            </div>
+            <hr />
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label asp-for="Remark" class="control-label"></label>
+                        <input asp-for="Remark" class="form-control" />
+                        <span asp-validation-for="Remark" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label asp-for="DiscountAfterTax" class="control-label"></label>
+                        <input type="checkbox" name="ApplyDiscountAmount" id="ApplyDiscountAmount" />
+                        <input asp-for="DiscountAfterTax" class="form-control" />
+                        <span asp-validation-for="DiscountAfterTax" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="OtherChargeAfterTax" class="control-label"></label>
+                        <input type="checkbox" name="ApplyOtherCharge" id="ApplyOtherCharge" />
+                        @*@Html.CheckBox("ApplyOtherCharge", false, new { onclick = "funApplyOtherCharge()" })*@
+                        <input asp-for="OtherChargeAfterTax" class="form-control" />
+                        <span asp-validation-for="OtherChargeAfterTax" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label asp-for="SubTotal" class="control-label"></label>
+                        <input asp-for="SubTotal" class="form-control" />
+                        <span asp-validation-for="SubTotal" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Tax" class="control-label"></label>
+                        <input asp-for="Tax" class="form-control" />
+                        <span asp-validation-for="Tax" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="TotalValueafterTax" class="control-label"></label>
+                        <input asp-for="TotalValueafterTax" class="form-control" />
+                        <span asp-validation-for="TotalValueafterTax" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="RoundOff" class="control-label"></label>
+                        <input type="checkbox" name="ApplyRoundOff" id="ApplyRoundOff" />
+                        <input asp-for="RoundOff" class="form-control"  />
+                        <span asp-validation-for="RoundOff" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="GrandTotal" class="control-label"></label>
+                        <input asp-for="GrandTotal" class="form-control" />
+                        <span asp-validation-for="GrandTotal" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label asp-for="PaymentMode" class="control-label"></label>
+                        <select asp-for="PaymentMode" class="form-control" asp-items="ViewBag.PaymentMode"><option value="">Please select</option></select>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label asp-for="Amount" class="control-label"></label>
+                        <input asp-for="Amount" class="form-control" readonly="readonly" />
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="form-group">
+                        @*<input type="submit" value="Create" class="btn btn-primary" />*@
+                        <button type="button" id="BtnCreatePurchase" class="btn btn-danger" style="border-radius: 5px;">CREATE</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                @*<button type="button" id="BtnCreatePurchase" class="btn btn-danger" style="border-radius: 5px;">CREATE</button>*@
+
+            </div>
+        </form>
+    </div>
+</div>
+
+<div id="divItemPopUPHolder" class="" role="group" aria-labelledby="dLabel">
+    <div id="divCreateItemPopUPHolder">
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+
+
+
+<script>
+    $(document).ready(function () {
+        //LoadPurchaseItemsView();
+
+        $('#ApplyRoundOff').change(function () {
+            /*debugger*/;
+            var TotalAmountAfterTax = $("#TotalValueafterTax").val();
+            var RoundOff = Math.round(TotalAmountAfterTax);
+            if (this.checked) {
+
+                alert(this.checked);
+                $("#RoundOff").val(RoundOff - TotalAmountAfterTax);
+                $("#GrandTotal").val(RoundOff);
+            }
+            else {
+                alert(this.checked);
+                $("#RoundOff").val(0);
+                $("#GrandTotal").val(TotalAmountAfterTax);
+            }
+        });
+
+
+        $('#PaymentMode').off('change.PaymentMode').on('change.PaymentMode', function (e) {
+            //debugger;
+
+            var id = $(this).val();
+            $("#Amount").val($("#GrandTotal").val())
+            if (id == 4) {
+                $("#Amount").prop('readonly', false);
+                $("#Amount").focus();
+
+            }
+            else {
+                $("#Amount").prop('readonly', true);
+            }
+
+        });
+
+
+
+    });
+     $(".CreateNewItem").click(
+        function (id) {
+            debugger;
+            var invoiceId = '@ViewBag.InvoiceId';
+            if (invoiceId == "") {
+                alert("Party Invoice No is missing ! ")
+                $("#InvoiceID").focus();
+                $("#InvoiceID").css("border-color", "#FF0000");
+                return;
+            }
+            var SalesID = '@ViewBag.Id';
+            if (SalesID == 'undefined' || SalesID == 1)
+            {
+                alert("Purchase ID is missing!");
+                return;
+            }
+            else {
+                LoadCreateItemListPopUP(SalesID, invoiceId);
+            }
+        });
+
+    function LoadCreateItemListPopUP(SalesID, InvoiceID) {
+        debugger;
+        var divPopUP = $('#divCreateItemPopUPHolder');
+        var strURL = '/Sales/CreateItemList';
+        $.ajax({
+            data: { "SalesID": SalesID, "InvoiceNo": InvoiceID },
+            datatype: 'json',
+            url: strURL,
+            type: 'GET',
+            cache: false,
+            context: divPopUP,
+            success: function (result) {
+
+                if (result == "")
+                { alert("Data service connectivity error."); }
+                else {
+                    this.html(result);
+                    $('#createItemListModal').modal('show');
+
+                }
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+                //debugger;;
+                alert("Error : " + xhr.responseText);
+
+            }
+        });
+    }
+
+
+    function AddItemToSession(data) {
+        //debugger;
+        var strURL = '/Sales/AddItemToSession';
+        $.ajax({
+            data: { request: JSON.stringify(data) },
+            datatype: 'json',
+            url: strURL,
+            type: 'POST',
+            success: function (response) {
+                debugger;
+
+                $('#createItemListModal').modal('hide');
+                LoadPurchaseItemsView();
+                LoadTotalData(response.total);
+
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+                // debugger;
+                alert("Error : " + xhr.responseText + thrownError);
+                //$.unblockUI();
+
+            }
+
+        });
+    }
+
+    function LoadPurchaseItemsView() {
+        //modalBlock();
+        var divPopUP = $('#divLoadItems');
+
+        $.ajax({
+            type: "POST",
+            datatype: 'json',
+            url: '/Sales/LoadItems',
+            cache: false,
+            context: divPopUP, // document.body,
+            //data: { "StoreIdName": qsStore },
+            success: function (data) {
+                $(this).html(data);
+            }, error: function (xhr, ajaxOptions, thrownError) {
+                //debugger;;
+                alert("Error : " + xhr.responseText);
+                //$.unblockUI();
+            }
+        });
+
+    }
+
+    function LoadTotalData(data) {
+        debugger;
+        $("#SubTotal").val(data.totalAmountBeforeTax);
+        $("#Tax").val(data.taxAmount);
+        $("#TotalValueafterTax").val(data.totalAmountAfterTax);
+        $("#RoundOff").val(0);
+        $("#GrandTotal").val(data.totalAmountAfterTax);
+
+    }
+
+    $("#BtnCreatePurchase").click(
+        function (id) {
+            debugger;
+
+
+            if ($('#CustomerId').val() == "") {
+                $("#CustomerId").focus();
+                $("#CustomerId").css("border-color", "#FF0000");
+                return false;
+            }
+
+            if ($('#InvoiceDate').val() == "") {
+                $("#InvoiceDate").focus();
+                $("#InvoiceDate").css("border-color", "#FF0000");
+                return false;
+            }
+
+
+            //var d1 = $('#FormPurchase').serialize();
+            //var data1 = $('#FormPurchase').serializeArray();
+            var data = $('#FormSales').serializeArray().reduce(function (obj, item) {
+                obj[item.name] = item.value;
+
+                return obj;
+            }, {});
+
+            AddSales(data);
+
+        });
+
+    function AddSales(data) {
+        /*debugger*/;
+        var strURL = '/Sales/AddSales';
+        $.ajax({
+            data: { request: JSON.stringify(data) },
+            datatype: 'json',
+            url: strURL,
+            type: 'POST',
+            error: function (xhr, ajaxOptions, thrownError) {
+                 /*debugger*/;
+                alert("Error : " + xhr.responseText.match(/.*<title.*>(.*)<\/title>.*/) + thrownError);
+                alert("Error : " + thrownError);
+            },
+            success: function (result) {
+                debugger;
+                window.location.href = "/Sale/index";
+            }
+
+        });
+    }
+
+</script>

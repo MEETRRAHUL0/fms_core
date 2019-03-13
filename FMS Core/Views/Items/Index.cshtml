@@ -1,0 +1,125 @@
+﻿@model IEnumerable<FMS_Core.Models.EFModels.TblItems>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New Item</a>
+</p>
+<div style="overflow:auto">
+    <table class="table">
+        <thead>
+            <tr>
+                <th></th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.HsnSacNo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Manufacture)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.BarCode)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ItemUniqueDescription)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Photo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UseBatchNo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UseMfgDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UseExpiryDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CreatedDatetime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.GstNavigation)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MeasuringUnitNavigation)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SupplierNavigation)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TypeNavigation)
+                </th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id"><i class="fa fa-pencil-square-o"></i> </a> 
+                        @*<a asp-action="Delete" asp-route-id="@item.Id">Delete</a>*@
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.Id">
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </a>
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HsnSacNo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Manufacture)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BarCode)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ItemUniqueDescription)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Photo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UseBatchNo)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UseMfgDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UseExpiryDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreatedDatetime)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.GstNavigation.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MeasuringUnitNavigation.MeasuringUnits)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SupplierNavigation.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TypeNavigation.ItemType)
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
