@@ -1,0 +1,124 @@
+﻿@model FMS_Core.Models.EFModels.TblPurchase
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>TblPurchase</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @*<div class="form-group">
+                <label asp-for="AutoId" class="control-label"></label>
+                <input asp-for="AutoId" class="form-control" />
+                <span asp-validation-for="AutoId" class="text-danger"></span>
+            </div>*@
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="PartyInvoiceDate" class="control-label"></label>
+                <input asp-for="PartyInvoiceDate" class="form-control" />
+                <span asp-validation-for="PartyInvoiceDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PurchaseDate" class="control-label"></label>
+                <input asp-for="PurchaseDate" class="form-control" />
+                <span asp-validation-for="PurchaseDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PartyInvoiceNo" class="control-label"></label>
+                <input asp-for="PartyInvoiceNo" class="form-control" />
+                <span asp-validation-for="PartyInvoiceNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PartyName" class="control-label"></label>
+                <select asp-for="PartyName" class="form-control" asp-items="ViewBag.PartyName"></select>
+                <span asp-validation-for="PartyName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PaymentDueAfter" class="control-label"></label>
+                <input asp-for="PaymentDueAfter" class="form-control" />
+                <span asp-validation-for="PaymentDueAfter" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReverseCharge" class="control-label"></label>
+                <input asp-for="ReverseCharge" class="form-control" />
+                <span asp-validation-for="ReverseCharge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Remark" class="control-label"></label>
+                <input asp-for="Remark" class="form-control" />
+                <span asp-validation-for="Remark" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DiscountAmount" class="control-label"></label>
+                <input asp-for="DiscountAmount" class="form-control" />
+                <span asp-validation-for="DiscountAmount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OtherCharge" class="control-label"></label>
+                <input asp-for="OtherCharge" class="form-control" />
+                <span asp-validation-for="OtherCharge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalAmountBeforeTax" class="control-label"></label>
+                <input asp-for="TotalAmountBeforeTax" class="form-control" />
+                <span asp-validation-for="TotalAmountBeforeTax" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TaxAmount" class="control-label"></label>
+                <input asp-for="TaxAmount" class="form-control" />
+                <span asp-validation-for="TaxAmount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalAmountAfterTax" class="control-label"></label>
+                <input asp-for="TotalAmountAfterTax" class="form-control" />
+                <span asp-validation-for="TotalAmountAfterTax" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RoundOff" class="control-label"></label>
+                <input asp-for="RoundOff" class="form-control" />
+                <span asp-validation-for="RoundOff" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GrandTotal" class="control-label"></label>
+                <input asp-for="GrandTotal" class="form-control" />
+                <span asp-validation-for="GrandTotal" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PurchaseBook" class="control-label"></label>
+                <input asp-for="PurchaseBook" class="form-control" />
+                <span asp-validation-for="PurchaseBook" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PaymentMode" class="control-label"></label>
+                <select asp-for="PaymentMode" class="form-control" asp-items="ViewBag.PaymentMode"></select>
+                <span asp-validation-for="PaymentMode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ScanCopy" class="control-label"></label>
+                <input asp-for="ScanCopy" class="form-control" />
+                <span asp-validation-for="ScanCopy" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreatedDatetime" class="control-label"></label>
+                <input asp-for="CreatedDatetime" class="form-control" />
+                <span asp-validation-for="CreatedDatetime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

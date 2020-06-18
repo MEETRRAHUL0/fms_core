@@ -1,0 +1,4 @@
+﻿Scaffold-DbContext "Server=.\SQLExpress;Database=FMSExp;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/EFModels -force
+
+
+OnModelCreatingForView(modelBuilder);

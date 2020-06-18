@@ -1,0 +1,244 @@
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.csproj.CoreCompileInputs.cache
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.RazorAssemblyInfo.cache
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.RazorAssemblyInfo.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.AssemblyInfoInputs.cache
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.AssemblyInfo.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.TagHelpers.input.cache
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.TagHelpers.output.cache
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.RazorCoreGenerate.cache
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Gst\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Gst\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Gst\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Gst\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Gst\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemStocks\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemStocks\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemStocks\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemStocks\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemStocks\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Items\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Items\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Items\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Items\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Items\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemTypes\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemTypes\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemTypes\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemTypes\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemTypes\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemUnits\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemUnits\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemUnits\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemUnits\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemUnits\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Menus\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Menus\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Menus\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Menus\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Menus\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\PaymentModes\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\PaymentModes\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\PaymentModes\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\PaymentModes\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\PaymentModes\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Payments\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Payments\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Payments\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Payments\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Payments\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchasesold\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchasesold\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchasesold\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchasesold\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchasesold\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\CreateItemList.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\CreateOld.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\LoadItems.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Viewtems.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sequences\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sequences\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sequences\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sequences\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sequences\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\MenuBar\Default.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\TopBrandMenu.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Header.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Menu.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\StockAvailable\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\StockDetails\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\StockExpirydetails\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Transactions\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Transactions\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Transactions\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Transactions\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Transactions\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\VendorTypes\Create.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\VendorTypes\Delete.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\VendorTypes\Details.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\VendorTypes\Edit.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\VendorTypes\Index.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.RazorTargetAssemblyInfo.cache
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.RazorTargetAssemblyInfo.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.dll
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.pdb
+E:\Shree\FMS Core\FMS Core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.deps.json
+E:\Shree\FMS Core\FMS Core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.runtimeconfig.json
+E:\Shree\FMS Core\FMS Core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.runtimeconfig.dev.json
+E:\Shree\FMS Core\FMS Core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.dll
+E:\Shree\FMS Core\FMS Core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.pdb
+E:\Shree\FMS Core\FMS Core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.Views.dll
+E:\Shree\FMS Core\FMS Core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.Views.pdb
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.Views.pdb
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.csproj.CopyComplete
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.csprojAssemblyReference.cache
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Edit - Copy.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\CreateItemList.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\LoadItems.g.cshtml.cs
+E:\Shree\FMS Core\FMS Core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Viewtems.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.deps.json
+E:\Shree\fms_core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.runtimeconfig.json
+E:\Shree\fms_core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.runtimeconfig.dev.json
+E:\Shree\fms_core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.dll
+E:\Shree\fms_core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.pdb
+E:\Shree\fms_core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.Views.dll
+E:\Shree\fms_core\FMS Core\bin\Debug\netcoreapp2.2\FMS Core.Views.pdb
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.csprojAssemblyReference.cache
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.csproj.CoreCompileInputs.cache
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.RazorAssemblyInfo.cache
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.RazorAssemblyInfo.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.AssemblyInfoInputs.cache
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.AssemblyInfo.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.TagHelpers.input.cache
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.TagHelpers.output.cache
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.RazorCoreGenerate.cache
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Gst\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Gst\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Gst\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Gst\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Gst\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemStocks\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemStocks\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemStocks\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemStocks\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemStocks\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Items\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Items\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Items\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Items\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Items\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemTypes\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemTypes\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemTypes\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemTypes\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemTypes\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemUnits\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemUnits\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemUnits\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemUnits\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\ItemUnits\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Menus\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Menus\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Menus\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Menus\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Menus\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\PaymentModes\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\PaymentModes\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\PaymentModes\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\PaymentModes\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\PaymentModes\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Payments\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Payments\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Payments\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Payments\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Payments\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchasesold\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchasesold\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchasesold\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchasesold\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchasesold\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\CreateItemList.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\CreateOld.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Edit - Copy.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\LoadItems.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Purchases\Viewtems.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\CreateItemList.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\LoadItems.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sales\Viewtems.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sequences\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sequences\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sequences\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sequences\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Sequences\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\MenuBar\Default.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\TopBrandMenu.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Header.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Menu.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\StockAvailable\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\StockDetails\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\StockExpirydetails\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Transactions\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Transactions\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Transactions\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Transactions\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Transactions\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\VendorTypes\Create.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\VendorTypes\Delete.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\VendorTypes\Details.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\VendorTypes\Edit.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\VendorTypes\Index.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.RazorTargetAssemblyInfo.cache
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.RazorTargetAssemblyInfo.cs
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.Views.pdb
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.dll
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.pdb
+E:\Shree\fms_core\FMS Core\obj\Debug\netcoreapp2.2\FMS Core.csproj.CopyComplete

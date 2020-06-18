@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  fmscoredocker:
+    image: ${DOCKER_REGISTRY-}fmscoredocker
+    build:
+      context: .
+      dockerfile: FMS Core Docker\Dockerfile
